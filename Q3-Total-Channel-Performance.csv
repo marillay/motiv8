@@ -1,0 +1,46 @@
+Channel,Type,Sales,Sessions,Orders,Conversion rate,AOV,First time customers,Returning customers
+instagram,unknown,39766.51,11126,676,0.0607585835,58.826,288,388
+google,paid,31080.15,5486,525,0.09569814072,59.2,207,318
+instagram,paid,16502.86,2506,229,0.09138068635,72.064,42,187
+google,organic,14138.69,3277,224,0.06835520293,63.119,91,133
+direct,direct,11185.12,18440,191,0.01035791757,58.56,90,101
+flow,paid,8925.91,694,181,0.2608069164,49.314,71,110
+facebook,paid,5611.54,11013,109,0.009897393989,51.482,86,23
+youtube,organic,5044.26,1433,107,0.07466852756,47.142,88,19
+unattributed,unknown,4443.39,417,70,0.1678657074,63.477,22,48
+facebook,organic,3560.17,1962,78,0.03975535168,45.643,65,13
+linktr,organic,3512.68,3390,71,0.0209439528,49.474,50,21
+abandoned_cart,paid,2168.74,85,32,0.3764705882,67.773,13,19
+instagram,organic,1894.53,701,42,0.05991440799,45.107,29,13
+afterpay,organic,1817.52,16,29,1.8125,62.673,19,10
+facebook,unknown,1506.79,2971,32,0.01077078425,47.087,30,2
+bing,organic,1343.92,176,28,0.1590909091,47.997,13,15
+duckduckgo,organic,1044.81,87,14,0.1609195402,74.629,5,9
+dealspotr,organic,708.74,24,15,0.625,47.249,8,7
+google,unknown,695.34,160,15,0.09375,46.356,6,9
+yahoo!,organic,516.89,95,10,0.1052631579,51.689,5,5
+restock_email,unknown,314.95,4,3,0.75,104.983,1,2
+event_type,unknown,311.18,18,5,0.2777777778,62.236,2,3
+knoji,organic,267.93,10,5,0.5,53.586,1,4
+loyalty,paid,226.18,51,4,0.07843137255,56.545,3,1
+msha,organic,174.22,30,3,0.1,58.073,1,2
+unattributed,unattributed,117.57,,2,,58.785,0,2
+clearpay,organic,99,,1,,99,1,0
+gmail,paid,89.96,37,1,0.02702702703,89.96,0,1
+shopify_email,paid,86.98,11,2,0.1818181818,43.49,0,2
+shop_app,unknown,84.98,120,2,0.01666666667,42.49,0,2
+unattributed,paid,84.98,254,2,0.007874015748,42.49,2,0
+instabio,organic,62.48,3,1,0.3333333333,62.48,0,1
+judge,paid,59.98,6,1,0.1666666667,59.98,0,1
+beacons,organic,55.24,355,1,0.002816901408,55.24,1,0
+tiktok,organic,33.99,239,1,0.004184100418,33.99,0,1
+gmail,unknown,29.99,,1,,29.99,0,1
+ecosia,organic,24.99,3,1,0.3333333333,24.99,0,1
+adroll,unknown,0,4184,0,0,0,0,0
+aol mail,paid,0,1,0,0,0,0,0
+dishwithdee,organic,0,12,0,0,0,0,0
+judgeme,paid,0,155,0,0,0,0,0
+loyalty,unknown,0,5,0,0,0,0,0
+thebalancednutritionist,unknown,0,1,0,0,0,0,0
+weather,unknown,0,206,0,0,0,0,0
+yahoo! mail,paid,0,4,0,0,0,0,0
